@@ -36,7 +36,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -86,13 +86,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "YOUR NAME"
+      "value": "CODED BOT"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "509xxxxxx"
+      "value": "2348144541791"
 
     }, 
 
